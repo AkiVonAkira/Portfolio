@@ -18,9 +18,7 @@ const HomeContainer = styled.div`
 const Home = () => {
   return (
     <HomeContainer>
-      <GithubStats></GithubStats> <p>Lines of Code</p>
-      <br />
-      <h1>OOGGA BOOGA</h1>
+      <GithubStats></GithubStats>
     </HomeContainer>
   );
 };
